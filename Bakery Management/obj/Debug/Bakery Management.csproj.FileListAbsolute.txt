@@ -1,0 +1,19 @@
+C:\Users\User\source\repos\Bakery Management\Bakery Management\obj\Debug\Bakery Management.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Bakery Management\Bakery Management\obj\Debug\Bakery_Management.Form1.resources
+C:\Users\User\source\repos\Bakery Management\Bakery Management\obj\Debug\Bakery_Management.Form2.resources
+C:\Users\User\source\repos\Bakery Management\Bakery Management\obj\Debug\Bakery_Management.Form3.resources
+C:\Users\User\source\repos\Bakery Management\Bakery Management\obj\Debug\Bakery_Management.Account.resources
+C:\Users\User\source\repos\Bakery Management\Bakery Management\obj\Debug\Bakery_Management.Form5.resources
+C:\Users\User\source\repos\Bakery Management\Bakery Management\obj\Debug\Bakery_Management.Properties.Resources.resources
+C:\Users\User\source\repos\Bakery Management\Bakery Management\obj\Debug\Bakery Management.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Bakery Management\Bakery Management\obj\Debug\Bakery Management.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Bakery Management\Bakery Management\bin\Debug\Bakery Management.exe.config
+C:\Users\User\source\repos\Bakery Management\Bakery Management\bin\Debug\Bakery Management.exe
+C:\Users\User\source\repos\Bakery Management\Bakery Management\bin\Debug\Bakery Management.pdb
+C:\Users\User\source\repos\Bakery Management\Bakery Management\bin\Debug\Guna.UI2.dll
+C:\Users\User\source\repos\Bakery Management\Bakery Management\bin\Debug\MetroFramework.dll
+C:\Users\User\source\repos\Bakery Management\Bakery Management\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\source\repos\Bakery Management\Bakery Management\obj\Debug\Bakery M.7E671C52.Up2Date
+C:\Users\User\source\repos\Bakery Management\Bakery Management\obj\Debug\Bakery Management.exe
+C:\Users\User\source\repos\Bakery Management\Bakery Management\obj\Debug\Bakery Management.pdb
+C:\Users\User\source\repos\Bakery Management\Bakery Management\obj\Debug\Bakery Management.exe.config
